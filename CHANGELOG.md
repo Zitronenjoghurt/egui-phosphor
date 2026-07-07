@@ -1,5 +1,9 @@
 # egui-phosphor changelog
 
+## 0.13.0 - 2026-07-07
+
+- Updated to egui 0.35
+
 ## 0.12.0 - 2026-03-30
 
 - Updated to egui 0.34
